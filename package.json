@@ -1,6 +1,14 @@
 {
   "name": "file-reader-reverse",
   "version": "1.0.1",
+  "keywords": [
+    "file",
+    "reader",
+    "reverse",
+    "backwards",
+    "bottom",
+    "logs"
+  ],
   "main": "dist/index.js",
   "license": "MIT",
   "author": "Sahil Gupte",
