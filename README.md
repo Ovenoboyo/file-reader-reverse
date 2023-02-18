@@ -3,6 +3,18 @@
 Node.JS library to read files line-by-line from bottom (backwards)
 This library will give you the last line first.
 
+### Installing
+
+#### Using yarn
+```bash
+yarn add file-reader-reverse
+```
+
+#### Using npm
+```bash
+npm install file-reader-reverse --save
+```
+
 ### Usage
 
 #### In non-async context
